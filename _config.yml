@@ -1,11 +1,11 @@
 # Site settings
-author: Firooz Mafakaheri
-title: 
+author: Firooz Mafakheri
+title: Firooz's first blog 
 header-img: img/home-bg.png
 email: firooz.mafakheri@gmail.com
-copyright_name: Firooz Mafakaheri
+copyright_name: Firooz Mafakheri
 description: > # this means to ignore newlines until "baseurl:"
-  
+  about me 
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: 
 github_username:  Firooz-Bright
