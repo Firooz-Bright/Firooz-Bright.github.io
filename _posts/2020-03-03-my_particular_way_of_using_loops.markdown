@@ -48,16 +48,21 @@ end
 
 
 puts(
-  'longest_palindrome("abcbd") == "bcb": ' +
-  (longest_palindrome('abcbd') == 'bcb').to_s
+  'longest_palindrome("abcbd") ' 
+	
+	 #output  => "bcb"
 )
 puts(
-  'longest_palindrome("abba") == "abba": ' +
-  (longest_palindrome('abba') == 'abba').to_s
-)
+  'longest_palindrome("abba")
+	
+  #output=>  "abba"
+	
+	
 puts(
-  'longest_palindrome("abcbdeffe") == "effe": ' +
-  (longest_palindrome('abcbdeffe') == 'effe').to_s
+  'longest_palindrome("abcbdeffe") 
+	
+	#output=> "effe" 
+  
 )
 
 ```
