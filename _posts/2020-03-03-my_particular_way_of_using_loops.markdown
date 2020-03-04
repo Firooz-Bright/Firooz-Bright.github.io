@@ -7,7 +7,7 @@ permalink:  my_particular_way_of_using_loops
 
 
 
-   The way I used the loop first started in C++ ,since Java core is kind of close to C++,  I felt more comfortable working with loops in Java, but when I started to learn Ruby I found loops more convenient and easy.  below is one of the examples I had fun with it when I tried to use loops to solve with Ruby , I liked the way I solved the palindrom with loops when I just started to learn Ruby.
+   The way I used the loop first started in C++ ,since Java core is kind of close to C++,  I felt more comfortable working with loops in Java, but when I started to learn Ruby I found loops more convenient and easy.  below is one of the examples I had fun with it when I tried to use loops to solve with Ruby , I liked the way loops work when I just started to learn Ruby.
 
 ```
 
