@@ -1,13 +1,13 @@
 ---
 layout: post
 title:      "My Particular Way of Using Loops"
-date:       2020-03-04 01:13:30 +0000
+date:       2020-03-03 20:13:31 -0500
 permalink:  my_particular_way_of_using_loops
 ---
 
 
 
-The way I used the loop first started in C++ since Java core is kind of close to C++, I felt more comfortable working with loops in Java, but when I started to learn Ruby I found loops more convenient and easy.  below is one of the examples I had fun with it when I tried to use loops to solve with Ruby :
+The way I used the loop first started in C++ since Java core is kind of close to C++, I felt more comfortable working with loops in Java, but when I started to learn Ruby I found loops more convenient and easy.  below is one of the examples I had fun with it when I tried to use loops to solve with Ruby , I liked the way I solved the palindrom with loops when I just started to learn Ruby.
 
 ```
 
