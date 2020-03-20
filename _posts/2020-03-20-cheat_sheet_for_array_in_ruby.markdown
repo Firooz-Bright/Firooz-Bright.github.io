@@ -1,12 +1,12 @@
 ---
 layout: post
 title:      "Cheat sheet for Array in Ruby "
-date:       2020-03-20 04:00:08 +0000
+date:       2020-03-20 00:00:09 -0400
 permalink:  cheat_sheet_for_array_in_ruby
 ---
 
 
-### ***Today I am going to talk about some array's functions in Ruby langauge.***
+### ***Today I am going to write about some array's functions in Ruby langauge.***
 
 *The best way to learn about the array is to review the Ruby document and practice those funcionality. Here I am just going to address some of the most useful array functions. 
 *
