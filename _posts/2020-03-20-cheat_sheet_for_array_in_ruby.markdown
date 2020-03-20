@@ -10,8 +10,7 @@ permalink:  cheat_sheet_for_array_in_ruby
 
 *The best way to learn about the array is to review the Ruby document and practice those funcionality. Here I am just going to address some of the most useful array functions. 
 *
-![](https://cdn-media-1.freecodecamp.org/images/1*HmGUFmEI1w7ClqD6YCSmJQ.pnghttp://)
-
+![](https://www.educative.io/api/edpresso/shot/6445167638740992/image/6388045848772608)
 Create a new array with values:
 ```
 arr_with_stuff = ["value", "other_value"] 
