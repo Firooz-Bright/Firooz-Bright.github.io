@@ -11,10 +11,8 @@ permalink:  cheat_sheet_for_array_in_ruby
 *The best way to learn about the array is to review the Ruby document and practice those funcionality. Here I am just going to address some of the most useful array functions. 
 *
 
-```
 ![](http://www.educative.io/api/edpresso/shot/6445167638740992/image/6388045848772608)
 
-```
 
 
 
