@@ -5,7 +5,7 @@ date:       2020-04-07 02:57:18 -0400
 permalink:  most_difficult_part_about_object_orientation_programming
 ---
 
-The most difficult part of learning and even teaching the OOP is when you try to explain the architect of memory and came to believe that computer doesn't care if your write something wrong because everything is related to memory and good practice of OOP is to know how memory works and then how the language you are writing OOP deals with memory. 
+The most difficult part of learning and even teaching the OOP is when you try to explain the architect of memory and came to believe that computer doesn't care if you write something wrong because everything is related to memory and good practice of OOP is to know how memory works and then how the language you are writing OOP deals with memory. 
 
 ![](https://miro.medium.com/max/1400/1*puhZOwtOxzGFPZUTvuWejQ.jpeg)
  
