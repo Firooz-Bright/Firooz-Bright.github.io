@@ -51,9 +51,11 @@ You shouldn’t worry about the fact that you got sidetracked. Instead, you shou
 ![](https://files.realpython.com/media/Object-Oriented-Programming-OOP-in-Python-3_Watermarked.0d29780806d5.jpg)
 
 You have to sit down and do the work. You shouldn’t worry about doing it wrong. Or that you’ve got no idea what you’re doing. It doesn’t matter in the long run.
-
+ 
+ ![](https://cdn.educba.com/academy/wp-content/uploads/2019/02/Advantages-of-OOP.jpg)
+ 
 The advantage is that the things that belong together are put together in code,however there are lots of Developer who hates OOP but it gives you lots of advantages: 
-
+ 
 * inheritance
 * operator overloading
 * type safety
