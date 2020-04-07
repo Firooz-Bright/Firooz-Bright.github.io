@@ -7,7 +7,7 @@ permalink:  most_difficult_part_about_object_orientation_programming
 
 The most difficult part of learning and even teaching the OOP is when you try to explain the architect of memory and came to believe that computer doesn't care if your write something wrong because everything is related to memory and good practice of OOP is to know how memory works and then how the language you are writing OOP deals with memory. 
 
-![](https://media.geeksforgeeks.org/wp-content/cdn-uploads/20190717114649/Object-Oriented-Programming-Concepts.jpghttp://)
+![](https://miro.medium.com/max/1400/1*puhZOwtOxzGFPZUTvuWejQ.jpeg)
  
 Computers just know that there is this stuff called memory, and memory contains a bunch of numbers in it.
 The ultimate goal of every software developer should be to write reliable code. Nothing else matters if the code is buggy and unreliable. And what is the best way to write code that is reliable? Simplicity. Simplicity is the opposite of complexity. Therefore our first and foremost responsibility as software developers should be to reduce code complexity.
